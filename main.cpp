@@ -9,7 +9,7 @@ int main(void)
 	a = 8;
 	b = 4;
 
-	printf("a = %d, b = %d\n", a, b);
+	printf("a = %d, b = %d\n\n", a, b);
 
 	printf("a + b = %d\n", plus(a, b));
 
