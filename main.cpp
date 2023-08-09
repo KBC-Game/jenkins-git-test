@@ -2,6 +2,7 @@
 #include "plus_minus.h"
 #include "multi_div.h"
 
+// コメント追加
 int main(void)
 {
 	int a, b;
