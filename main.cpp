@@ -3,6 +3,7 @@
 #include "multi_div.h"
 
 // コメント追加
+// コメント再追加
 int main(void)
 {
 	int a, b;
